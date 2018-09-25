@@ -250,6 +250,7 @@ a {
 }
 #anotherid {
   width: 85px;
+  border-radius: 50%;
 }
 .clssx {
   padding-left: 15px;
